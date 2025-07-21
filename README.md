@@ -4,7 +4,7 @@ This project analyzes customer data from a telecom company to predict whether a 
 
 ## Dataset
 
-- Dataset used: Telco Customer Churn Dataset ([from Kaggle or similar source](https://www.kaggle.com/datasets/blastchar/telco-customer-churn))
+- Dataset used: Telco Customer Churn Dataset ([from Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn))
 - Target variable: `Churn` (Yes/No)
 
 ## Exploratory Data Analysis (EDA)
